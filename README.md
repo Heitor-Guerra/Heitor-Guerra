@@ -44,4 +44,4 @@ Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web devel
 Feel free to reach out if you want to discuss have a chat!
 
 
-<a href = "mailto:atrspereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:heitor.guerra@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
