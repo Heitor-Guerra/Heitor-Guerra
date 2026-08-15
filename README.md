@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm a brazilian **Computer Engineering student** at *Universidade Federal do Espírito Santo (UFES)* in my **4th semester**, with a background as a **Mechanical Technician** from *Instituto Federal do Espírito Santo (IFES)*. 
+I'm a Brazilian **Computer Engineering student** at *Universidade Federal do Espírito Santo (UFES)* in my **4th semester**, with a background as a **Mechanical Technician** from *Instituto Federal do Espírito Santo (IFES)*. 
 
-Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web developer and whishing to explore the intersection of AI and healthcare.
+Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web developer and wishing to explore the intersection of AI and healthcare.
 
 ---
 
