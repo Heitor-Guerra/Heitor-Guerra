@@ -17,15 +17,15 @@ Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web devel
   
 | Languages | Databases | Frameworks |
 |-----------|-----------|------------|
-| ![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=blue) ![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=c%2B%2B&logoColor=green) | ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white) | ![C++ Boost](https://img.shields.io/badge/-Boost-black) |
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow) | ![MariaDB](https://img.shields.io/badge/-MariaDB-green?logo=mariadb&logoColor=white) |  ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white) |
+| ![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=blue) ![C++](https://img.shields.io/badge/-C%2B%2B-gray?logo=c%2B%2B&logoColor=blue) | ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white) | ![C++ Boost](https://img.shields.io/badge/-Boost-black) |
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow) | ![MariaDB](https://img.shields.io/badge/-MariaDB-green?logo=mariadb&logoColor=white) |  |
 | ![Java](https://img.shields.io/badge/-Java-red?logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-black?logo=sqlite&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-darkgreen?logo=spring-boot&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) | | ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white) |
 
 
 </div>
 
-Minor Knowledge: React.
+Minor Knowledge: ![React](https://img.shields.io/badge/-React-white?logo=react&logoColor=blue)  ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white).
 
 ---
 
