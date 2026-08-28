@@ -31,19 +31,12 @@ Minor Knowledge: ![React](https://img.shields.io/badge/-React-white?logo=react&l
 
 ## What I'm Learning Now
 
-- *Software Engineering* – Building robust, scalable systems
-- *Neural Networks* – Exploring deep learning and AI architectures
+- *Software Engineering* – Building robust systems
+- *Neural Networks* – Exploring machine learning
 
 ---
 
-## Current Goals
-
-- Deepen my understanding of software architecture
-- Apply the knowledge I gained from University at real world problems
-
----
-
-Feel free to reach out if you want to discuss have a chat!
+Feel free to reach out if you want to discuss or have a chat!
 
 
 <a href = "mailto:heitor.guerra@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
