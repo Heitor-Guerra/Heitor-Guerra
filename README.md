@@ -25,7 +25,7 @@ Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web devel
 
 </div>
 
-Minor Knowledge: ![React](https://img.shields.io/badge/-React-white?logo=react&logoColor=blue)  ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white).
+Minor Knowledge: ![React](https://img.shields.io/badge/-React-white?logo=react&logoColor=blue)  ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white)   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-orange?logo=tensorflow&logoColor=white).
 
 ---
 
