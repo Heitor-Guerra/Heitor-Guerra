@@ -41,22 +41,6 @@ Minor Knowledge:<br>
 
 ---
 
-## My Setup
-
-**OS & Desktop**
-
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white)
-![Noctalia](https://img.shields.io/badge/Noctalia-7C5CFC?style=for-the-badge)
-
-**Hardware**
-
-![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
----
-
 Feel free to reach out if you want to discuss or have a chat!
 
 
