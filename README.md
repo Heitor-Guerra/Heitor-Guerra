@@ -21,8 +21,8 @@ Currently, I'm also part of [**LIFE**](https://life.inf.ufes.br), as a web devel
 | ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) | ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) | 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
-| ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) | | ![Lapis](https://img.shields.io/badge/-Lapis-2C2D72?style=for-the-badge) |
-| ![Nix](https://img.shields.io/badge/NIX-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) | | ![Flake](https://img.shields.io/badge/Flake-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) |
+| ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) | | |
+| ![Nix](https://img.shields.io/badge/NIX-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) | | |
 
 
 </div>
